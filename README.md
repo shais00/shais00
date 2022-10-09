@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on full stack and AI ,cloud applications along with robotic software development for autonomous driving inclusive of computer business and Python
+I’m currently working on full stack and AI ,cloud applications along with robotic software development for autonomous driving inclusive of computer vision and Python projects
 
 
 ## 🌐 Socials:
